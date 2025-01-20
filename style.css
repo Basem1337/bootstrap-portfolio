@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+}
+
+/* .hero{
+    height: 65vh !important; 
+} */
+
+.img-thumbnail{
+    border-radius: 50% !important;
+}
+
+div>i{
+    font-size: 32px;
+}
+
+div>a>i{
+    font-size: 32px;
+    color: white !important;
+}
+
+div>a>i:hover{
+    color: rgb(193, 193, 193) !important;
+}
+
+/* .pers-info{
+    height: 20vh !important; 
+} */
+
+h6{
+    color: rgb(169, 209, 255) !important;
+}
+
+.slide{
+    background-color: rgba(33, 73, 146, 0.5) !important;
+}
